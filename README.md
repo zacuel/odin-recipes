@@ -1,0 +1,1 @@
+This is my first, or one of my first odin project adventures. I feel as I can do the rest of this without any help. Thats What I shall do, and afterword I shall go through the rest of the tutorial and see how I did. 
